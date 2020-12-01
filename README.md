@@ -217,17 +217,18 @@
     10. PROYECTO
 
         - Crear archivo CSV: credentials.csv
-        - Agregar:
-          eve.holt@reqres.in,cityslicka
-          george.bluth@reqres.in,cityslick1
-          janet.weaver@reqres.in,cityslick2
-          emma.wong@reqres.in,cityslick3
-          charles.morris@reqres.in,cityslick4
-          tracey.ramos@reqres.in,cityslick5
-          michael.lawson@reqres.in,cityslick6
-          lindsay.ferguson@reqres.in,cityslick7
-          tobias.funke@reqres.in,cityslick8
-          byron.fields@reqres.in,cityslick9
+        - Agregar al archivo sin dejar espacios o lineas al inicio y al final:
+        
+                •	eve.holt@reqres.in,cityslicka
+                •	george.bluth@reqres.in,cityslick1
+                •	janet.weaver@reqres.in,cityslick2
+                •	emma.wong@reqres.in,cityslick3
+                •	charles.morris@reqres.in,cityslick4
+                •	tracey.ramos@reqres.in,cityslick5
+                •	michael.lawson@reqres.in,cityslick6
+                •	lindsay.ferguson@reqres.in,cityslick7
+                •	tobias.funke@reqres.in,cityslick8
+                •	byron.fields@reqres.in,cityslick9
 
         - Crear un locustfile: pocLocust.py
 
